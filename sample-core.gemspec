@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version     = Sample::Core::VERSION
   spec.authors     = ["Soichi Saito"]
   spec.email       = ["soichi.saito@bizreach.co.jp"]
-  spec.homepage    = "TODO"
-  spec.summary     = "TODO: Summary of Sample::Core."
-  spec.description = "TODO: Description of Sample::Core."
+  spec.homepage    = "sample-core"
+  spec.summary     = "Summary of Sample::Core."
+  spec.description = "Description of Sample::Core."
   spec.license     = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
