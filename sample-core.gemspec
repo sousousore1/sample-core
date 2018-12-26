@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.version     = Sample::Core::VERSION
   spec.authors     = ["Soichi Saito"]
   spec.email       = ["soichi.saito@bizreach.co.jp"]
-  spec.homepage    = "sample-core"
+  spec.homepage    = "https://github.com/sousousore1/sample-core"
   spec.summary     = "Summary of Sample::Core."
   spec.description = "Description of Sample::Core."
   spec.license     = "MIT"
